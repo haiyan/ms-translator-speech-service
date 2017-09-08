@@ -1,4 +1,6 @@
-[![Travis](https://img.shields.io/travis/noopkat/ms-translator-speech-service.svg?style=flat-square)](https://www.travis-ci.org/noopkat/ms-translator-speech-service)
+
+# Forked Modification
+If websocket connection unexpectedly resets, the file stream will pause, a new auth token will be requested and the file will resume streaming.
 
 # Microsoft Translator Speech to Text Service
 (Unofficial) NodeJS service wrapper for [Microsoft Translator Speech API](https://www.microsoft.com/en-us/translator/speech.aspx)
